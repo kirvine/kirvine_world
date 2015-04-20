@@ -16,3 +16,5 @@
 
 # Ignore the .DS_Store files from Mac OS X
 .DS_Store
+
+.idea
